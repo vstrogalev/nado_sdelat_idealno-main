@@ -8,3 +8,4 @@
 HTML, CSS
 
 #Link to github repo
+https://github.com/vstrogalev/nado_sdelat_idealno-main
